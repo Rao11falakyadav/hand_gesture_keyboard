@@ -33,3 +33,31 @@ source .venv/bin/activate  # For Mac/Linux
 
 pip install -r requirements.txt
 python main.py
+
+📦 Requirements
+
+Python 3.8 or higher
+OpenCV
+MediaPipe
+wxPython
+NumPy
+Pynput
+Make sure your webcam is connected and working.
+📁 Project Structure
+
+hand_gesture_keyboard/
+├── main.py
+├── keyboard_utils.py
+├── letters.txt
+├── requirements.txt
+└── README.md
+👤 Author
+
+Falak Yadav
+🔗 GitHub Profile
+
+⭐️ Support
+
+If you like this project, don’t forget to ⭐️ the repository!
+
+
